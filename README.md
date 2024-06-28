@@ -1,6 +1,7 @@
 <h1 align="center"> Aluguel de boardgames  </h1>
 
-<p>Segundo projeto do terceiro curso de lógica do Geração Caldeira 2024.Neste projeto desenvolvemos um sistema de gerenciamento de jogos com objetivo de facilitar o controle de aluguéis e devoluções dos jogos </p>
+<p>Neste projeto desenvolvemos um sistema de gerenciamento de jogos com objetivo de facilitar o controle de aluguéis e devoluções dos jogos </p>
+<p>Segundo projeto do terceiro curso de lógica do Geração Caldeira 2024.</p>
 
  ## Funcionalidades 
  
