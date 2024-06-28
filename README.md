@@ -19,7 +19,6 @@ https://github.com/namartinxs/aluguel-de-games/assets/133926013/d34b62a5-4797-46
 
 
 
-## :chains: Acesse o projeto  
 
 
 
